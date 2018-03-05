@@ -1,0 +1,2 @@
+# Analysis-of-Sentiment-from-Tweets-Related-to-Manchester-Football-Team-
+This report is written as a part of the requirements of Taster Project for MRes students. It is aimed to explore the rate of support for two football teams, Manchester United and Manchester City, by analysing the sentiment of tweets which mention them. The main programing language employed in Taster project is Python. JavaScript was also used to build a webpage showing the tweets on a geographic map.

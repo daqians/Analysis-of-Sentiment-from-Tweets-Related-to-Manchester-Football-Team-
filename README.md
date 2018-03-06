@@ -1,2 +1,21 @@
 # Analysis-of-Sentiment-from-Tweets-Related-to-Manchester-Football-Team-
-This report is written as a part of the requirements of Taster Project for MRes students. It is aimed to explore the rate of support for two football teams, Manchester United and Manchester City, by analysing the sentiment of tweets which mention them. The main programing language employed in Taster project is Python. JavaScript was also used to build a webpage showing the tweets on a geographic map.
+This project is aimed to explore the rate of support for two football teams, Manchester United and Manchester City, by analysing the sentiments of tweets which mentioned them. The main programing language employed in project is Python. JavaScript was also used to build a webpage showing the tweets on a geographic map.
+
+
+## Diagram view:
+The marked position in the map is the density of tweets which mentioned the football team, with the color goes deeper, the density of tweets become higher.
+![image](http://img.blog.csdn.net/20180307043233133?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvanhzZHE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+## document description
+
+- **Collect Tweets.ipynb: The tweet collector through Tweepy API**
+
+- **Daqian SHI-Taster project.pdf: The report of this project, including the procedure of the experiment and the result analysis**
+
+- **Derive Sentiment.ipynb: The sentiment processing of the collected tweets**
+
+- **Geolocation.ipynb: To find the geolocation information of the tweets to mark the position down on the map, this will help to analyzing in the final prcessing**
+
+- **Statistics.ipynb: The data statistic of the results**
+
+- **Tokenization.ipynb: To transform the tweets into tokens and this will make the sentiment analysis easier**

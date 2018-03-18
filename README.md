@@ -3,7 +3,7 @@ This project is aimed to explore the rate of support for two football teams, Man
 
 
 ## Diagram view:
-The marked position in the map is the density of tweets which mentioned the football team in positive ways, with the color goes deeper, the density of tweets become higher. It means the football fans love this team deeper. 
+The marked position in the map is the density of tweets which mentioned the football team in positive ways, with the color goes deeper, the density of tweets become higher. It means the football fans love this team deeper. After expand this picture, we will found more details about the support fans' locations in UK, that will support the conclusion above.
 ![image](http://img.blog.csdn.net/20180307043233133?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvanhzZHE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 ## document description
